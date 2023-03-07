@@ -6,13 +6,13 @@ I am passionate about coding and I love to traveling.
 ## My Projects
 I enjoy working on various projects and experimenting with new technologies. Here are some of the projects I have worked on:
 
+  Project 1: Basic Blog Site.
+
 ## About Me
   - Name: Karthikraja
   - Location: Trichy,India
   - Education: BE.CSE
   - Skills: Laravel,Mysql,Vue js.
-
-Project 1: Basic Blog Site.
 
 ## Contact Me
 Feel free to reach out to me if you have any questions or just want to say hello! You can contact me through:
