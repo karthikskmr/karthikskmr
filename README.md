@@ -4,10 +4,10 @@ I'm software engineer
 I am passionate about coding and I love to traveling.
 
 ## About Me
-  > Name: Karthikraja
-  > Location: Trichy,India
-  > Education: BE.CSE
-  > Skills: Laravel,Mysql,Vue js.
+  - Name: Karthikraja
+  - Location: Trichy,India
+  - Education: BE.CSE
+  - Skills: Laravel,Mysql,Vue js.
  
 
 ### :hammer_and_wrench: Languages and Tools :
