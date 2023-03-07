@@ -1,19 +1,15 @@
 ## Hi there 👋
-Hello there! My name is [karthik Raja]
-<!--
-**karthikskmr/karthikskmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! My name is karthik Raja,
+I'm software engineer
+I am passionate about coding and I love to traveling.
 
-Here are some ideas to get you started:
+##About Me
+  Name: Karthikraja
+  Location: Trichy,India
+  Education: BE.CSE
+  Skills: Laravel,Mysql,Vue js.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
