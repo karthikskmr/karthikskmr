@@ -3,7 +3,7 @@ Hello there! My name is karthik Raja,
 I'm software engineer
 I am passionate about coding and I love to traveling.
 
-##About Me
+## About Me
   Name: Karthikraja
   Location: Trichy,India
   Education: BE.CSE
