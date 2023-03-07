@@ -6,7 +6,7 @@ I am passionate about coding and I love to traveling.
 ## My Projects
 I enjoy working on various projects and experimenting with new technologies. Here are some of the projects I have worked on:
 
-  Project 1: Basic Blog Site.
+   Project 1: Basic Blog Site.
 
 ## About Me
   - Name: Karthikraja
@@ -17,7 +17,7 @@ I enjoy working on various projects and experimenting with new technologies. Her
 ## Contact Me
 Feel free to reach out to me if you have any questions or just want to say hello! You can contact me through:
 
-Email : karthikskmr@gmail.com
+ Email : karthikskmr@gmail.com
 
 
 ### :hammer_and_wrench: Languages and Tools :
